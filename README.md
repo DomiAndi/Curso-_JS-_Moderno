@@ -6,8 +6,3 @@
 
 ¡Bienvenido a mi repositorio personal de JS! Aquí encontrarás una colección de proyectos que se realizaean durante el curso de JavaScript Moderno Definitiva Construye +20 Proyectos de Udemy, 
 que muestran mis habilidades y experiencia en HTML5, CSS3 y JS.
-   
-## Acerca de mí
-
- 
-# JavaScript Proyectos
