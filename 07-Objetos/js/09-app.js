@@ -6,7 +6,7 @@ const producto = {
     disponible: true,
 }
 
-Object.freeze(producto);
+Object.seal(producto);
 
 // producto.disponible = false;
 // producto.imagen = "imagen.jpg";
@@ -14,4 +14,5 @@ Object.freeze(producto);
 // delete producto.precio;
 
 console.log(producto);
-console.log(Object.isFrozen(producto));
+
+console.log(Object.isSealed(producto));
